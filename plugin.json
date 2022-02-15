@@ -1,0 +1,9 @@
+{
+    "name": "Page Builder",
+    "namespace": "Tec\\PageBuilder\\",
+    "provider": "Tec\\PageBuilder\\Providers\\PageBuilderServiceProvider",
+    "author": "Tecdynamics LTD",
+    "url": "https://tecdynamics.co.uk",
+    "version": "5.9",
+    "description": "Drag and drop website editor. No coding needed."
+}
